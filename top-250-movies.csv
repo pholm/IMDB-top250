@@ -1,0 +1,252 @@
+# Data scraped on: 2024-10-29 09:45:29
+Position,Name,Year
+1,The Shawshank Redemption,1994
+2,The Godfather,1972
+3,The Dark Knight,2008
+4,The Godfather Part II,1974
+5,12 Angry Men,1957
+6,The Lord of the Rings: The Return of the King,2003
+7,Schindler's List,1993
+8,Pulp Fiction,1994
+9,The Lord of the Rings: The Fellowship of the Ring,2001
+10,"The Good, the Bad and the Ugly",1966
+11,Forrest Gump,1994
+12,The Lord of the Rings: The Two Towers,2002
+13,Fight Club,1999
+14,Inception,2010
+15,Star Wars: Episode V - The Empire Strikes Back,1980
+16,The Matrix,1999
+17,Goodfellas,1990
+18,One Flew Over the Cuckoo's Nest,1975
+19,Interstellar,2014
+20,Se7en,1995
+21,It's a Wonderful Life,1946
+22,Seven Samurai,1954
+23,The Silence of the Lambs,1991
+24,Saving Private Ryan,1998
+25,City of God,2002
+26,Life Is Beautiful,1997
+27,The Green Mile,1999
+28,Terminator 2: Judgment Day,1991
+29,Star Wars: Episode IV - A New Hope,1977
+30,Back to the Future,1985
+31,Spirited Away,2001
+32,The Pianist,2002
+33,Parasite,2019
+34,Psycho,1960
+35,Gladiator,2000
+36,The Lion King,1994
+37,Spider-Man: Across the Spider-Verse,2023
+38,The Departed,2006
+39,Whiplash,2014
+40,Grave of the Fireflies,1988
+41,American History X,1998
+42,Léon: The Professional,1994
+43,The Prestige,2006
+44,Harakiri,1962
+45,Casablanca,1942
+46,The Usual Suspects,1995
+47,Dune: Part Two,2024
+48,The Intouchables,2011
+49,Cinema Paradiso,1988
+50,Modern Times,1936
+51,Alien,1979
+52,Rear Window,1954
+53,Once Upon a Time in the West,1968
+54,Django Unchained,2012
+55,City Lights,1931
+56,Apocalypse Now,1979
+57,Memento,2000
+58,WALL·E,2008
+59,Raiders of the Lost Ark,1981
+60,The Lives of Others,2006
+61,12th Fail,2023
+62,Sunset Boulevard,1950
+63,Avengers: Infinity War,2018
+64,Paths of Glory,1957
+65,Spider-Man: Into the Spider-Verse,2018
+66,Witness for the Prosecution,1957
+67,The Shining,1980
+68,The Great Dictator,1940
+69,Aliens,1986
+70,Inglourious Basterds,2009
+71,The Dark Knight Rises,2012
+72,Coco,2017
+73,Amadeus,1984
+74,Toy Story,1995
+75,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964
+76,Oldboy,2003
+77,American Beauty,1999
+78,Avengers: Endgame,2019
+79,Das Boot,1981
+80,Braveheart,1995
+81,Good Will Hunting,1997
+82,Princess Mononoke,1997
+83,Your Name.,2016
+84,Joker,2019
+85,High and Low,1963
+86,3 Idiots,2009
+87,Once Upon a Time in America,1984
+88,Singin' in the Rain,1952
+89,Capernaum,2018
+90,Come and See,1985
+91,Requiem for a Dream,2000
+92,Toy Story 3,2010
+93,Star Wars: Episode VI - Return of the Jedi,1983
+94,The Hunt,2012
+95,Eternal Sunshine of the Spotless Mind,2004
+96,2001: A Space Odyssey,1968
+97,Ikiru,1952
+98,Reservoir Dogs,1992
+99,Lawrence of Arabia,1962
+100,The Apartment,1960
+101,Incendies,2010
+102,Scarface,1983
+103,North by Northwest,1959
+104,Double Indemnity,1944
+105,Citizen Kane,1941
+106,M,1931
+107,Vertigo,1958
+108,Oppenheimer,2023
+109,Heat,1995
+110,Full Metal Jacket,1987
+111,Amélie,2001
+112,Up,2009
+113,A Clockwork Orange,1971
+114,To Kill a Mockingbird,1962
+115,A Separation,2011
+116,The Sting,1973
+117,Die Hard,1988
+118,Indiana Jones and the Last Crusade,1989
+119,Like Stars on Earth,2007
+120,Metropolis,1927
+121,Snatch,2000
+122,1917,2019
+123,L.A. Confidential,1997
+124,Bicycle Thieves,1948
+125,Downfall,2004
+126,Hamilton,2020
+127,Taxi Driver,1976
+128,Dangal,2016
+129,Batman Begins,2005
+130,The Wolf of Wall Street,2013
+131,For a Few Dollars More,1965
+132,Green Book,2018
+133,Some Like It Hot,1959
+134,The Truman Show,1998
+135,Judgment at Nuremberg,1961
+136,The Kid,1921
+137,The Father,2020
+138,All About Eve,1950
+139,Shutter Island,2010
+140,There Will Be Blood,2007
+141,Jurassic Park,1993
+142,Casino,1995
+143,Top Gun: Maverick,2022
+144,The Sixth Sense,1999
+145,Ran,1985
+146,Pan's Labyrinth,2006
+147,No Country for Old Men,2007
+148,Unforgiven,1992
+149,The Thing,1982
+150,The Wild Robot,2024
+151,A Beautiful Mind,2001
+152,Kill Bill: Vol. 1,2003
+153,The Treasure of the Sierra Madre,1948
+154,Yojimbo,1961
+155,The Great Escape,1963
+156,Finding Nemo,2003
+157,Prisoners,2013
+158,Monty Python and the Holy Grail,1975
+159,Howl's Moving Castle,2004
+160,The Elephant Man,1980
+161,Rashomon,1950
+162,Dial M for Murder,1954
+163,Gone with the Wind,1939
+164,Chinatown,1974
+165,The Secret in Their Eyes,2009
+166,"Lock, Stock and Two Smoking Barrels",1998
+167,Inside Out,2015
+168,V for Vendetta,2005
+169,"Three Billboards Outside Ebbing, Missouri",2017
+170,Raging Bull,1980
+171,Trainspotting,1996
+172,The Bridge on the River Kwai,1957
+173,Klaus,2019
+174,Catch Me If You Can,2002
+175,Fargo,1996
+176,Warrior,2011
+177,Spider-Man: No Way Home,2021
+178,Gran Torino,2008
+179,Harry Potter and the Deathly Hallows: Part 2,2011
+180,Million Dollar Baby,2004
+181,My Neighbor Totoro,1988
+182,Mad Max: Fury Road,2015
+183,Children of Heaven,1997
+184,Ben-Hur,1959
+185,12 Years a Slave,2013
+186,Barry Lyndon,1975
+187,Before Sunrise,1995
+188,Blade Runner,1982
+189,The Grand Budapest Hotel,2014
+190,Hacksaw Ridge,2016
+191,Gone Girl,2014
+192,Dead Poets Society,1989
+193,Memories of Murder,2003
+194,Maharaja,2024
+195,In the Name of the Father,1993
+196,The Gold Rush,1925
+197,"Monsters, Inc.",2001
+198,Wild Tales,2014
+199,Ratatouille,2007
+200,The Deer Hunter,1978
+201,Jaws,1975
+202,How to Train Your Dragon,2010
+203,The General,1926
+204,Sherlock Jr.,1924
+205,On the Waterfront,1954
+206,Mary and Max,2009
+207,The Wages of Fear,1953
+208,Ford v Ferrari,2019
+209,Wild Strawberries,1957
+210,Mr. Smith Goes to Washington,1939
+211,The Third Man,1949
+212,Logan,2017
+213,Rocky,1976
+214,Tokyo Story,1953
+215,The Big Lebowski,1998
+216,The Seventh Seal,1957
+217,Room,2015
+218,Spotlight,2015
+219,The Terminator,1984
+220,Hotel Rwanda,2004
+221,Platoon,1986
+222,Pirates of the Caribbean: The Curse of the Black Pearl,2003
+223,La haine,1995
+224,A Man Escaped,1956
+225,Before Sunset,2004
+226,The Passion of Joan of Arc,1928
+227,Jai Bhim,2021
+228,The Best Years of Our Lives,1946
+229,The Exorcist,1973
+230,Rush,2013
+231,The Incredibles,2004
+232,The Wizard of Oz,1939
+233,Network,1976
+234,Stand by Me,1986
+235,Hachi: A Dog's Tale,2009
+236,The Sound of Music,1965
+237,My Father and My Son,2005
+238,The Handmaiden,2016
+239,To Be or Not to Be,1942
+240,Into the Wild,2007
+241,The Battle of Algiers,1966
+242,The Iron Giant,1999
+243,The Grapes of Wrath,1940
+244,Groundhog Day,1993
+245,Amores Perros,2000
+246,Rebecca,1940
+247,The Help,2011
+248,Cool Hand Luke,1967
+249,It Happened One Night,1934
+250,Laapataa Ladies,2023
